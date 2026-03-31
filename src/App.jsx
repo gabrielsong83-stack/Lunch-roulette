@@ -150,7 +150,7 @@ export default function App() {
         <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "6px" }}>
           <span style={{ fontSize: "36px", animation: "float 3s ease-in-out infinite", display: "inline-block" }}>🍽️</span>
           <div style={{ fontSize: "22px", fontWeight: 900, color: "#1a1a1a", fontFamily: "'Black Han Sans', sans-serif", lineHeight: 1.1 }}>
-            오늘 점심<br /><span style={{ color: "#FF6B35" }}>뭐 먹지?</span>
+            송병걸의 오늘 점심<br /><span style={{ color: "#FF6B35" }}>뭐 먹지?</span>
           </div>
         </div>
         <p style={{ margin: "8px 0 0", fontSize: "13px", color: "#999", fontWeight: 500 }}>
